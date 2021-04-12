@@ -1,6 +1,6 @@
 package methods.example;
 
-// We will now use a ready class with static function to explore their usage
+// We will now use a ready class with static functions to explore their usage
 // This class must be imported
 import java.security.SecureRandom;
 
